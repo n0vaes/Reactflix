@@ -6,8 +6,6 @@
 .pnp.js
 
 #lock and packages
-package.json
-package-lock.json
 yarn.lock
 
 # testing
