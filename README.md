@@ -6,7 +6,7 @@ REACTFLIX
 <hr />
 
 <p align="center">
-  <img alt="Logo do projeto" width="150px" src="https://i.imgur.com/hqQMin3.png" />
+  <img alt="Logo do projeto" width="300px" src="https://i.imgur.com/hqQMin3.png" />
 </p>
 
 > Study project to learn React
